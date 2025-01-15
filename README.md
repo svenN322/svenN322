@@ -49,7 +49,7 @@
 - 📰 Databases:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
