@@ -17,7 +17,7 @@
 
 - 🌱 Soy un estudiante de **noveno ciclo en la Universidad César Vallejo**
 
-- 💬 Pregúntame acerca de **Python, Java, NodeJS, Angular**
+- 💬 Pregúntame acerca de **Python, Java, Ionic**
 
 - ⚡ Fun fact **Me gusta componer música en mis tiempos libres** 🎵 
 
